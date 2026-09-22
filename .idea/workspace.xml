@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2efa84b6-a152-40ff-86ab-2e30fb6288b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/QA88Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commands_for_terminal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_selectors_css.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="3.058401076496157E-17" />
+      <entry key="MS500" value="4.978504311514603E-4" />
+      <entry key="S2" value="0.1493739006070978" />
+      <entry key="S5" value="0.4674227958254152" />
+      <entry key="S10" value="0.6836832598348942" />
+      <entry key="S30" value="0.8837817668407036" />
+      <entry key="S60" value="1.041790107769081" />
+      <entry key="M2" value="1.62149181094076" />
+      <entry key="M5" value="3.4821362330840153" />
+      <entry key="M10" value="7.616652195102761" />
+      <entry key="M15" value="13.320335187091397" />
+      <entry key="M30" value="29.59793870709282" />
+      <entry key="H1" value="48.08741537186974" />
+      <entry key="H2" value="62.447609208469466" />
+      <entry key="H4" value="71.46454407715026" />
+      <entry key="D1" value="80.1276719236653" />
+      <entry key="W1" value="81.72951809888053" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000004507732" />
+      <entry key="S60" value="1.0000221853123492" />
+      <entry key="M2" value="1.0056088224949875" />
+      <entry key="M5" value="1.2134545238138945" />
+      <entry key="M10" value="2.1019844802285377" />
+      <entry key="M15" value="3.1963817997763293" />
+      <entry key="M30" value="5.839853652761607" />
+      <entry key="H1" value="8.50141038397176" />
+      <entry key="H2" value="10.449149176694869" />
+      <entry key="H4" value="11.637471839263105" />
+      <entry key="D1" value="12.759656744581621" />
+      <entry key="W1" value="12.965324279613375" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.2737368502631585E-13" />
+      <entry key="MS500" value="0.003059535822817701" />
+      <entry key="S2" value="0.33304554617878307" />
+      <entry key="S5" value="0.9564118109135695" />
+      <entry key="S10" value="1.3781133313192442" />
+      <entry key="S30" value="1.7677218607324476" />
+      <entry key="S60" value="1.977510091453942" />
+      <entry key="M2" value="2.5814356924031805" />
+      <entry key="M5" value="4.658137285577803" />
+      <entry key="M10" value="9.682215252632723" />
+      <entry key="M15" value="16.47927026562819" />
+      <entry key="M30" value="35.40244530200427" />
+      <entry key="H1" value="56.56231684990686" />
+      <entry key="H2" value="72.88016908684726" />
+      <entry key="H4" value="83.09268791154375" />
+      <entry key="D1" value="92.88560980465424" />
+      <entry key="W1" value="94.69459250636663" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Jda1Juo3s5RJeWMKraIo7O1ct0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for tests.test_selectors_css.TestSelectorsCss.test_selectors_css.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/biene/PycharmProjects/QA88Demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\biene\PycharmProjects\QA88Demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for tests.test_selectors_css.TestSelectorsCss.test_selectors_css" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="QA88Demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_selectors_css.TestSelectorsCss.test_selectors_css&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for tests.test_selectors_css.TestSelectorsCss.test_selectors_css" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-245168a56dbd-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.25134.203" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2efa84b6-a152-40ff-86ab-2e30fb6288b7" name="Changes" comment="" />
+      <created>1789993182863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789993182863</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
