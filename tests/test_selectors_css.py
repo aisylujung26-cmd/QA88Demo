@@ -164,7 +164,7 @@ class TestSelectorsCss:
         driver.find_element(By.XPATH,"//label[text()='No']/../../div[1]/input").click()
         time.sleep(2)
 
-    def test_selectors_links(self, driver):
+    def test_selectors_links_and_id(self, driver):
         driver.find_element(By.XPATH, "//div[contains(@class, 'ory-cards')]/a[@href='/elements']").click()
         time.sleep(2)
 
@@ -172,6 +172,10 @@ class TestSelectorsCss:
         time.sleep(2)
 
         driver.find_element(By.LINK_TEXT,"No Content").click()
+        time.sleep(2)
+        driver.find_element(By.ID,"created").click()
+        time.sleep(2)
+        driver.find_element(By.ID,"forbidden").click()
         time.sleep(2)
 
 
