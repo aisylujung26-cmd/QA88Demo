@@ -19,5 +19,10 @@ def driver():
     driver.quit()
     #driver.close()
 
+    def test_selectors_xpath(self, driver):
+        time.sleep(2)
+        # поиск по части аттрибута By.CSS_SELECTOR
+
+
 
 
